@@ -10,6 +10,8 @@ Docker file to build the docker image for an application
 
 4.install the dependencies
 
-5.expose port number 3000
+5.builds the image
 
-6.execute the file
+6.expose port number 3000
+
+7.execute the file
