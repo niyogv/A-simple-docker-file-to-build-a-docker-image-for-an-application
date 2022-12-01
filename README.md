@@ -10,7 +10,7 @@ Docker file to build the docker image for an application
 
 4.install the dependencies
 
-5.builds the image
+5.builds the environment (qa or prod)
 
 6.expose port number 3000
 
