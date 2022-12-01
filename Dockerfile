@@ -1,6 +1,5 @@
 ARG BASE_IMAGE=node:14.16-alpine
 FROM $BASE_IMAGE as build
-LABEL maintainer="gokul@sarva.ai"
 # create & set working directory
 WORKDIR /app
 COPY package*.json ./
